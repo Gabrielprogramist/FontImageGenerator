@@ -1,4 +1,6 @@
 # FontImageGenerator
+
+![Sample Image](images/example.png)
 ## Overview
 FontImageGenerator is a Python-based project designed to generate images of characters from various fonts. It supports the generation of characters from English, Russian, and Kazakh alphabets.
 
